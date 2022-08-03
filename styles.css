@@ -1,0 +1,194 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+table {
+    border: 3px solid black;
+    border-collapse: collapse;
+    border-color: red;
+}
+td, th {
+    border: 3px solid black;
+    padding: 5px;
+    border-color: red;
+}
+.indexBody {
+    font-family: cooper black;
+    background-color: black;
+    color: red;
+    margin: 0;
+    margin-top: 0;
+
+}
+form {
+    border: 1px solid white;
+    padding: 5px;
+    border-width: 20px;
+    text-align: center;
+
+}
+#twat {
+    text-align: center;
+    margin: 0px;
+    margin-top: 0px;
+    background-color: black;
+    color: red;
+    font-size: x-large;
+    padding: 0px;
+}
+#mainNav ul{
+    padding: 0%;
+    margin: 0%;
+    list-style: none;
+}
+#mainNav li{
+    display: inline;
+    padding: 5px 10px;
+}
+#mainNav a {
+    color: red;
+    text-decoration: none;
+    font-size: 30px;
+    /* background-color: black; */
+}
+#mainNav a #subHead{
+    color: blue;
+    text-decoration: none;
+    font-size: 30px;
+    /* background-color: black; */
+}
+#mainNav{
+    background-color: black;
+    color: red;
+}
+#mainNav li:hover{
+    background-color: grey;
+}
+#mainFooter {
+background-color: black;
+text-align: center;
+margin: 2px;
+padding: 10px;
+}
+@media (max-width:600px) {
+    #main {
+        width: 600px;
+        float: none;
+    }
+}
+#aboutUs {
+    text-align: center;
+    text-decoration: underline;
+    color: blue;
+}
+/* #aHmed {
+    border: 1px solid white;
+    padding: 5px;
+    float: right;
+} */
+.iMG {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
+.aHmed {
+    border: 2px solid white;
+    border-color: white;
+    border-width: 4px;
+    text-align: center;
+    margin: 10px;
+    padding: 10px;
+
+}
+
+#mainAboutus {
+font-family: cooper black;
+background-color: black;
+color: blue;
+margin: 0;
+margin-top: 0;
+
+}
+.subscribe-button {
+background-color: black;
+color: white;
+border: none;
+height: 36px;
+width: 105px;
+border-radius: 2px;
+cursor: pointer;
+margin-right: 8px;
+}
+#subHeadingaxe {
+text-align: center;
+margin: none;
+padding: none;
+text-decoration-line: underline;
+}
+#dropDown {
+    border: none;
+    text-align: left;
+    text-shadow:20px white;
+}
+.subHead {
+    color: blue;
+}
+/* ADDED FROM HERE */
+.first-social {
+    display: inline-block;
+    border: 1.5px solid white;
+    width: 500px;
+    height: 250px;
+    margin: 0px;
+}
+.first-social-img {
+    display: inline-block;
+    width: 50px;
+    margin-right: 20px;
+    padding-left: 200px;
+}
+.first-social-name {
+    /* display: block; */
+    width: 500px;
+    margin: 0px;
+    text-align: center;
+}
+.social-steam {
+    display: block;
+    width: 130px;
+    margin-right: 0px;
+    padding-left: 185px;
+    padding-top: 10px;
+}
+.ameen-img {
+    display: inline-block;
+    width: 90px;
+    border-radius: 60px;
+    outline-style:solid;
+    outline-color: red;
+}
+.vertical-img {
+    display: inline-block;
+    width: 90px;
+    border-radius: 60px;
+    outline-style:solid;
+    outline-color: red;
+}
+.second-social {
+    display: inline-block;
+    border: 1px solid white;
+    width: 500px;
+    height: 250px;
+    margin-left: 250px;
+    margin-top: 20px;
+}
+.third-social {
+    display: inline-block;
+    border: 1px solid white;
+    width: 500px;
+    height: 250px;
+    margin-left: 10px;
+    margin-top: 20px;
+}
